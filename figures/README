@@ -1,0 +1,10 @@
+Additional : Other correlations between attributes
+
+Scatter plot showing different attributes which shows abnormalities for attrition across years.
+Other correlations between attributes:
+A scatter plot Figure 33, is plotted for different attributes which shows abnormalities for attrition across years.
+
+Keys observations and insights from the plot are:
+    IT Field: Figure 33 indicates a declining attrition trend for disabled, non-English-speaking, and female students in IT, likely due to improved support systems. 
+    Professional Qualification Admissions: Students admitted based on professional qualifications show reduced attrition rates, particularly for females, disabled students, and those with ATAR scores below 70, potentially due to targeted assistance programs.
+    Trend line are used to analyze various attributes over time period with other attributes.
