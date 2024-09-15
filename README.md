@@ -1,7 +1,7 @@
 # Data Visualization : Assignment 1  
 It's an assignment done as part of course of Data Visualization
 
-Data-Visualization: Higher Education Attrition Rate (Dropout Rate)  at public universities in Australia.
+Data-Visualization: Higher Education Attrition Rate (Dropout Rate)  at public universities in Australia between (2005-2013).
 
 This repository contains data and resources related to the Higher Education Attrition Rate Dataset (2005-2013) for public universities in Australia. The analysis explores trends in student retention based on various demographics, regions, socio-economic backgrounds, and more.
 
